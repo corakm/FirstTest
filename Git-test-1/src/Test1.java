@@ -12,5 +12,7 @@ public class Test1 {
 		//Ista izmena na klijentu!
 		
 		//Izmena na gitu!!! force konflikt
+		
+		//izmena na lokalu bez konflikta
 	}
 }
