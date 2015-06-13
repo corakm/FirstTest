@@ -10,5 +10,7 @@ public class Test1 {
 		//The original file 'Test1.java' has been deleted or is not accessible.
 		
 		//Ista izmena na klijentu!
+		
+		//Izmena na gitu!!! force konflikt
 	}
 }
