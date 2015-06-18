@@ -5,4 +5,7 @@ public class Test2 {
 	//vidi sad ovo
 	
 	//izmena bez konflikta
+	
+	
+	//dvssdv
 }
