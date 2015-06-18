@@ -15,6 +15,6 @@ public class Test1 {
 		
 		//izmena na lokalu bez konflikta
 		
-		//fwwewef
+		//fwwewef fff
 	}
 }
