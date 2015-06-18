@@ -14,5 +14,7 @@ public class Test1 {
 		//Izmena na gitu!!! force konflikt
 		
 		//izmena na lokalu bez konflikta
+		
+		//fwwewef
 	}
 }
