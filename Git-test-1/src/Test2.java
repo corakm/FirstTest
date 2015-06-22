@@ -6,6 +6,6 @@ public class Test2 {
 	
 	//izmena bez konflikta
 	
-	
+	//Single pin feature Implementation
 	//dvssdv
 }
